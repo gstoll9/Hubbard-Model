@@ -1,11 +1,11 @@
 # Hubbard-Model
 Simulating the Hubbard model and dynamically implementing the Gutzwiller projection.
 
-## Example_Script.ipynb
-Sets up a model then shows different ways to use the find_solution function and plot the results.
-
 ## Dynamically Implementing Gutzwiller Projection.pptx
 A presentation summarizing my first semester of research. I was focused on presenting my results and showing how this research overlapped with the Computational Modeling and Data Analytics degree. The code in this repository is talked about at the end of the presentation. We found an error in our results from that semester, but the plots still look cool!
+
+## Example_Script.ipynb
+Sets up a model then shows different ways to use the find_solution function and plot the results.
 
 ## Hubbard_func.py
 HubbardModel func.py

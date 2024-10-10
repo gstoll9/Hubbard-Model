@@ -9,7 +9,7 @@ A presentation summarizing my first semester of research. I was focused on prese
 
 ## Hubbard_func.py
 HubbardModel func.py
-HubbardModel func.py sets up a Hubbard Model, using lists of complex num- bers as the possible states (1’s represent up spin and i’s represent down spin). The function get basis returns the list of all possible states and get hamiltonian uses this list to return the Hamiltonian. Also present is a helper function for get hamiltonian, called possible states, it finds the off diagonals of the Hamilto- nian. Functions get hamiltonian and possible states suffixed with cyclic, treat the end sites as neighbors.
+HubbardModel func.py sets up a Hubbard Model, using lists of complex num- bers as the possible states (1’s represent up spin and i’s represent down spin). The function get basis returns the list of all possible states and get hamiltonian uses this list to return the Hamiltonian. Also present is a helper function for get hamiltonian, called possible states, it finds the off diagonals of the Hamiltonian. Functions get hamiltonian and possible states suffixed with cyclic, treat the end sites as neighbors.
 
 ## TimeEvolution.py
 _Probability is defined as the probability of the system to be in a singly occupied state. Heisenberg value is defined as the overlap with the Heisenberg eigenvectors._\
